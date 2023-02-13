@@ -1,0 +1,25 @@
+{
+  "name": "labtest2_mad_6135_2",
+  "version": "1.0.0",
+  "description": "this is for study purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthvekariya98/LabTest2_MAD_6135_2.git"
+  },
+  "author": "parthvekariya260898@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parthvekariya98/LabTest2_MAD_6135_2/issues"
+  },
+  "homepage": "https://github.com/parthvekariya98/LabTest2_MAD_6135_2#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "sqlite3": "^5.1.4"
+  }
+}
